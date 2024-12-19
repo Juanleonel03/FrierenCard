@@ -1,0 +1,314 @@
+[
+    {
+        "id": "0",
+        "name": "Frieren",
+        "spells": [
+            "Judradjim",
+            "Vollzanbel"
+        ],
+        "type": "High Elf Mage",
+        "range": "S-range Mage",
+        "image": "https://static.zerochan.net/Frieren.full.4029739.jpg",
+        "range_l": "S"
+    },
+    {
+        "id": "1",
+        "name": "Fern",
+        "spells": [
+            "Zooltrack",
+            "Saluting Attack"
+        ],
+        "type": "Human Mage",
+        "range": "A-range Mage",
+        "image": "https://s1.zerochan.net/Fern.600.4166506.jpg",
+        "range_l": "A"
+    },
+    {
+        "id": "2",
+        "name": "Himmel",
+        "spells": [
+            "Swordsman"
+        ],
+        "type": "Hero",
+        "range": "S-range Hero",
+        "image": "https://s3.zerochan.net/240/35/28/3451435.avif",
+        "range_l": "S"
+    },
+    {
+        "id": "3",
+        "name": "Eisen",
+        "spells": [
+            "Lightning Strike"
+        ],
+        "type": "Dwarf Warrior",
+        "range": "S-range Warrior",
+        "image": "https://static.zerochan.net/Eisen.1024.4182714.webp",
+        "range_l": "S"
+    },
+    {
+        "id": "4",
+        "name": "Heiter",
+        "spells": [
+            "Goddess's magic",
+            "Healing magic",
+            "Stealth Magic"
+        ],
+        "type": "Priest Mage",
+        "range": "A-range Priest",
+        "image": "https://s3.zerochan.net/240/05/08/3977905.avif",
+        "range_l": "A"
+    },
+    {
+        "id": "5",
+        "name": "Stark",
+        "spells": [
+            "Lightning Strike"
+        ],
+        "type": "Warrior Mage",
+        "range": "B-range Warrior",
+        "image": "https://static.zerochan.net/Stark.1024.4065299.webp",
+        "range_l": "B"
+    },
+    {
+        "id": "6",
+        "name": "Flamme",
+        "spells": [
+            "Field Of Flowers",
+            "Barrier"
+        ],
+        "type": "Fire Mage",
+        "range": "S-range Mage",
+        "image": "https://s3.zerochan.net/240/45/18/4113445.avif",
+        "range_l": "S"
+    },
+    {
+        "id": "7",
+        "name": "Serie",
+        "spells": [
+            "Living Grimoire"
+        ],
+        "type": "ArchMage",
+        "range": "SS-range Mage",
+        "image": "https://static.zerochan.net/Serie.%28Sousou.no.Frieren%29.1024.4123490.webp",
+        "range_l": "SS"
+    },
+    {
+        "id": "8",
+        "name": "Denken",
+        "spells": [
+            "Catastravia",
+            "Waldgose",
+            "Daosdorg",
+            "Mistilziela",
+            "Fürwehrer"
+        ],
+        "type": "Human Mage",
+        "range": "A-range Mage",
+        "image": "https://static.zerochan.net/Denken.1024.4137511.webp",
+        "range_l": "A"
+    },
+    {
+        "id": "9",
+        "name": "Aura",
+        "spells": [
+            "Auserlese"
+        ],
+        "type": "Demon Mage",
+        "range": "S-range Demon Mage",
+        "image": "https://s1.zerochan.net/Aura.%28Sousou.no.Frieren%29.600.4055785.jpg",
+        "range_l": "S"
+    },
+    {
+        "id": "10",
+        "name": "Methode",
+        "spells": [
+            "Erilfrachte"
+        ],
+        "type": "Human Mage",
+        "range": "A-range Mage",
+        "image": "https://s1.zerochan.net/Methode.600.4126136.jpg",
+        "range_l": "A"
+    },
+    {
+        "id": "11",
+        "name": "Sense",
+        "spells": [
+            "Magic Hair",
+            "Superhuman Imagination"
+        ],
+        "type": "Human Mage",
+        "range": "A-range Mage",
+        "image": "https://static.zerochan.net/Sense.%28Sousou.no.Frieren%29.1024.4121768.webp",
+        "range_l": "A"
+    },
+    {
+        "id": "12",
+        "name": "Übel",
+        "spells": [
+            "Reelseiden"
+        ],
+        "type": "Human Mage",
+        "range": "A-range Mage",
+        "image": "https://s1.zerochan.net/%C3%9Cbel.600.4112245.jpg",
+        "range_l": "A"
+    },
+    {
+        "id": "13",
+        "name": "Wirbel",
+        "spells": [
+            "Sorganeil"
+        ],
+        "type": "Human Mage",
+        "range": "A-range Mage",
+        "image": "https://s1.zerochan.net/Wirbel.600.4085085.jpg",
+        "range_l": "A"
+    },
+    {
+        "id": "14",
+        "name": "Linie",
+        "spells": [
+            "Erfassen"
+        ],
+        "type": "Demon Mage",
+        "range": "B-range Demon Mage",
+        "image": "https://s1.zerochan.net/Linie.600.4165605.jpg",
+        "range_l": "B"
+    },
+    {
+        "id": "15",
+        "name": "Laufen",
+        "spells": [
+            "Jilwer"
+        ],
+        "type": "Human Mage",
+        "range": "C-range Mage",
+        "image": "https://static.zerochan.net/Laufen.1024.4122507.webp",
+        "range_l": "C"
+    },
+    {
+        "id": "16",
+        "name": "Sein",
+        "spells": [
+            "Goddess's magic",
+            "Healing magic",
+            "Awakening"
+        ],
+        "type": "Priest Mage",
+        "range": "B-range Priest",
+        "image": "https://s1.zerochan.net/Sein.600.4094407.jpg",
+        "range_l": "B"
+    },
+    {
+        "id": "17",
+        "name": "Lawine",
+        "spells": [
+            "Nephtear"
+        ],
+        "type": "Human Mage",
+        "range": "C-range Mage",
+        "image": "https://cdn.myanimelist.net/images/characters/10/537013.jpg",
+        "range_l": "C"
+    },
+    {
+        "id": "18",
+        "name": "Kanne",
+        "spells": [
+            "Reamstroha"
+        ],
+        "type": "Human Mage",
+        "range": "C-range Mage",
+        "image": "https://cdn.myanimelist.net/images/characters/9/538790.jpg",
+        "range_l": "C"
+    },
+    {
+        "id": "19",
+        "name": "Ehre",
+        "spells": [
+            "Doragate"
+        ],
+        "type": "Human Mage",
+        "range": "B-range Mage",
+        "image": "https://cdn.myanimelist.net/images/characters/12/531661.jpg",
+        "range_l": "B"
+    },
+    {
+        "id": "20",
+        "name": "Lernen",
+        "spells": [
+            "Zooltrack"
+        ],
+        "type": "Human Mage",
+        "range": "A-range Mage",
+        "image": "https://cdn.myanimelist.net/images/characters/2/535549.jpg",
+        "range_l": "A"
+    },
+    {
+        "id": "21",
+        "name": "Scharf",
+        "spells": [
+            "Jubelade"
+        ],
+        "type": "Human Mage",
+        "range": "C-range Mage",
+        "image": "https://cdn.anisearch.de/images/character/cover/123/123847_400.webp",
+        "range_l": "C"
+    },
+    {
+        "id": "22",
+        "name": "Richter",
+        "spells": [
+            "Bargland"
+        ],
+        "type": "Human Mage",
+        "range": "B-range Mage",
+        "image": "https://cdn.anisearch.de/images/character/cover/123/123849_400.webp",
+        "range_l": "B"
+    },
+    {
+        "id": "23",
+        "name": "Land",
+        "spells": [
+            "slap",
+            "Clone Magic"
+        ],
+        "type": "Human Mage",
+        "range": "A-range Mage",
+        "image": "https://s1.zerochan.net/Land.600.4090517.jpg",
+        "range_l": "A"
+    },
+    {
+        "id": "24",
+        "name": "Lugner",
+        "spells": [
+            "Balterie"
+        ],
+        "type": "Demon Mage",
+        "range": "A-range Demon Mage",
+        "image": "https://cdn.myanimelist.net/images/characters/15/524722.jpg",
+        "range_l": "A"
+    },
+    {
+        "id": "25",
+        "name": "Draht",
+        "spells": [
+            "Magic Thread"
+        ],
+        "type": "Demon Mage",
+        "range": "B-range Demon Mage",
+        "image": "https://i-ogp.pximg.net/c/540x540_70/img-master/img/2023/11/13/15/13/15/113376694_p0_square1200.jpg",
+        "range_l": "B"
+    },
+    {
+        "id": "26",
+        "name": "Edel",
+        "spells": [
+            "Hypnosis Magic",
+            "Levitate",
+            "Mental Magic"
+        ],
+        "type": "Human Mage",
+        "range": "B-range Mage",
+        "image": "https://cdn.myanimelist.net/images/characters/4/538690.jpg",
+        "range_l": "B"
+    }
+]

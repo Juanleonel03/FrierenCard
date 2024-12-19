@@ -1,0 +1,89 @@
+:root{
+  --background: #252525;
+  --fontColor: #dadada;
+  --font: "Jetbrains Mono";
+  color-scheme: light dark;
+}
+body{
+  font-family: var(--font);
+  background: light-dark(var(--fontColor), var(--background));
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main{
+display: flex;
+flex-direction: column;
+}
+main h1{
+  margin: 0;
+  margin-right: 30px;
+}
+header{
+  display: flex;
+  align-items: center;
+}
+header form input{
+  height: 30px;
+  width: 200px;
+  outline: none;
+  border-radius: 6px;
+  border: none;
+  padding: 3px;
+}
+header form button{
+  height: 36px;
+  width: 60px;
+  cursor: pointer;
+}
+.contenido{
+  display: flex;
+  justify-content: center;
+
+}
+.card{
+  margin: 10px;
+  display: grid;
+  gap: 15px;
+  grid-template-columns: repeat(4, minmax(100px, 1fr));
+}
+.card article{
+  background: rgb(24, 23, 68);
+  color: var(--fontColor);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  border-radius: 8px ;
+}
+.card article button{
+  height: 36px;
+  width: 100%;
+  cursor: pointer;
+}
+.card figcaption,
+.album figcaption{
+  text-align: center;
+}
+.card img{
+  width: 200px;
+  height: 200px;
+}
+.album{
+  display: none;
+  background: rgb(24, 23, 68);
+  color: var(--fontColor);
+  position: sticky;
+  top: 10px;
+  height: 550px;
+  padding: 10px;
+}
+.album h2{
+  font-size: 14px;
+}
+.album img{
+  width: 300px;
+  height: 300px;
+}
