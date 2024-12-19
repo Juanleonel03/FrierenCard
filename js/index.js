@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
   //mi función para cargar los datos del json
   async function cargarDatos() {
     try {
-      const response = await fetch("/js/characterdb.json");
+      const response = await fetch("./js/characterdb.json");
       if (!response.ok) {
         throw new Error(`Error al cargar los datos: ${response.statusText}`);
       }
